@@ -33,5 +33,6 @@ The **TNEB Pay Web Portal** is built using **Node.js** and provides:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/tneb-pay-web.git
-cd tneb-pay-web
+git clone https://github.com/Online-Payment.git
+cd Online-Payment
+
